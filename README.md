@@ -12,7 +12,7 @@
 5. Open your browser and go to http://localhost:3000 to view the app
 
 # Design
-![Mobile View](personalreminderboard_mobile.png)
+![Mobile View](https://github.com/moria18/personal-reminder-board/blob/main/personalreminderboard_mobile.png.png?raw=true)
  
 
 NOTES
